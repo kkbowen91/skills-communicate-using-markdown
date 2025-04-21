@@ -6,4 +6,6 @@
 ##### Here is some example text.
 ###### Thank you.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-System.out.println("Hi, my name is Kourtney!");
+``` javascript
+var myVar = "Hello, world!";
+```
